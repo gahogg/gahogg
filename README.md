@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## I build and deploy production-ready data science models and make applications that use them. Listed below are the main tools I'm comfortable with:
 
 Application Languages / Frameworks: Python, SQL, Java, C#, .NET, Xamarin, XML, C, C++
