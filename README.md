@@ -9,7 +9,7 @@ Data Science Theory: Model Training, Relational Databases, Regression, Neural Ne
 
 Computer Science Theory: Data Structures, Algorithms, Object-Oriented Design
 
-Common Tools: Git / GitHub, Linux / Windows terminal, Latex, Visual Studio, Android Studio, PyCharm
+Common Tools: Git / GitHub, Linux / Windows terminal, LateX, Visual Studio, Android Studio, PyCharm
 <!--
 **gahogg/gahogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
