@@ -17,7 +17,10 @@
 
 <br/>
 
-**Projects:**
+**Sample Projects:**
 
 [Know Your Fruit: A Computer Vision Web App](https://kyfr.herokuapp.com/)
+
 [Biomon Multiplayer Android Game](https://www.youtube.com/watch?v=-k72TaHhwEQ)
+
+[Reinforcement Learning Package rl-learn](https://pypi.org/project/rl-learn/)
