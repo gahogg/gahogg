@@ -1,5 +1,7 @@
 ## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I build and deploy deep learning models using the statistical rigor from my undergraduate degree and the theory in tomorrow's research papers. I'm also the sole maintainer of the reinforcement learning package “rl-learn” with  4000 downloads on PyPi.
+### I build and deploy deep learning models using the statistical rigor from my undergraduate degree and the theory in tomorrow's research papers. 
+
+### I'm also the sole maintainer of the reinforcement learning package “rl-learn” with  4000 downloads on PyPi.
 
 <br/>
 
