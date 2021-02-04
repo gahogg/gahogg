@@ -15,6 +15,8 @@
 [<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/databricks.png?raw=true"></code>](https://databricks.com/)
 [<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/sql.jpg?raw=true"></code>](https://en.wikipedia.org/wiki/SQL)
 
-<br>
+<br/>
+
 **Projects:**
+
 [Know Your Fruit: A Computer Vision Web App](https://kyfr.herokuapp.com/)
