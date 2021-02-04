@@ -16,5 +16,5 @@
 [<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/sql.jpg?raw=true"></code>](https://en.wikipedia.org/wiki/SQL)
 
 <br>
-
-[**Know Your Fruit (Computer Vision Web App)**] (https://kyfr.herokuapp.com/)
+**Projects:**
+[Know Your Fruit (Computer Vision Web App)](https://kyfr.herokuapp.com/)
