@@ -17,4 +17,4 @@
 
 <br>
 **Projects:**
-[Know Your Fruit (Computer Vision Web App)](https://kyfr.herokuapp.com/)
+[Know Your Fruit: A Computer Vision Web App](https://kyfr.herokuapp.com/)
