@@ -1,5 +1,6 @@
 # Hi there 👋
-## I build and deploy deep learning models using the statistical rigor from my undergraduate degree and the theory in tomorrow's research papers. Maintainer of Reinforcement Learning package “rl-learn” with  4000 downloads on PyPi.
+## I build and deploy deep learning models using the statistical rigor from my undergraduate degree and the theory in tomorrow's research papers. 
+## I'm the sole maintainer of reinforcement learning package “rl-learn” with  4000 downloads on PyPi.
 
 **Daily Tools:** Python, R, SQL, PySpark, Pandas, TensorFlow, Git, GCP & AWS Cloud, DataBricks, Linux
 
