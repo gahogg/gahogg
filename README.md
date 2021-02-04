@@ -3,6 +3,8 @@
 
 ### I'm also the sole maintainer of the reinforcement learning package [rl-learn](https://github.com/gahogg/rl_learn) with 4000 downloads on [PyPi](https://pypi.org/project/rl-learn/).
 
+---
+
 <br/>
 
 **Languages and Tools:**  
