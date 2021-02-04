@@ -9,6 +9,8 @@
 **Computer Science:** Data Structures & Algorithms, Object-Oriented Design Patterns, Big Data
 
 **Deep Learning:** Neural Networks (CNN, RNN), Computer Vision, NLP, Reinforcement Learning (RL)
+
+**Computer Vision:** Convolutional Neural Networks, Transfer Learning, Data Augmentation 
 <!--
 **gahogg/gahogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
