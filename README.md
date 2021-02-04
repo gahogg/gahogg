@@ -1,15 +1,15 @@
 # Hi there 👋
 ## I build and deploy production-ready data science models and make applications that use them. Listed below are the main tools I'm comfortable with:
 
-**Application Languages / Frameworks:** Python, SQL, Java, Android, C#, HTML, XML, C, C++
+**Daily Tools:** Python, R, SQL, PySpark, Pandas, TensorFlow, Git, GCP & AWS Cloud, DataBricks, Linux
 
-**Machine Learning Technologies:** Tensorflow, Keras, GCP (Google Cloud Platform), R Studio
+**Data Science:** Classification, Databases, Probability, Regression, Forecasting, MapReduce, Hadoop
 
-**Data Science Theory:** Model Training, Relational Databases, Regression, Neural Networks
+**Computer Science:** Data Structures & Algorithms, Object-Oriented Design Patterns, Big Data
 
-**Computer Science Theory:** Data Structures, Algorithms, Object-Oriented Design
+**Deep Learning:** Neural Networks (CNN, RNN), Computer Vision, NLP, Reinforcement Learning (RL)
 
-**Common Tools:** Git / GitHub, Linux / Windows terminal, LateX, Visual Studio, Android Studio, PyCharm
+**Open Source:** Owner of Reinforcement Learning package “rl-learn” with over 4000 downloads on PyPi
 <!--
 **gahogg/gahogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
