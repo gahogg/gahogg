@@ -1,5 +1,5 @@
 # Hi there 👋
-## I build and deploy production-ready data science models and make applications that use them. Listed below are the main tools I'm comfortable with:
+## I build and deploy deep learning models using the statistical rigor from my undergraduate degree and the theory in tomorrow's research papers. Maintainer of Reinforcement Learning package “rl-learn” with  4000 downloads on PyPi.
 
 **Daily Tools:** Python, R, SQL, PySpark, Pandas, TensorFlow, Git, GCP & AWS Cloud, DataBricks, Linux
 
@@ -8,8 +8,6 @@
 **Computer Science:** Data Structures & Algorithms, Object-Oriented Design Patterns, Big Data
 
 **Deep Learning:** Neural Networks (CNN, RNN), Computer Vision, NLP, Reinforcement Learning (RL)
-
-**Open Source:** Owner of Reinforcement Learning package “rl-learn” with over 4000 downloads on PyPi
 <!--
 **gahogg/gahogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
