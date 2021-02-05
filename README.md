@@ -13,6 +13,7 @@
 [<code><img height="20" src="https://raw.githubusercontent.com/gahogg/gahogg/d38a59a433e48bad8d90c4a5a14f187746af78c5/r.svg"></code>](https://www.r-project.org/)
 [<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/databricks.png?raw=true"></code>](https://databricks.com/)
 [<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/sql.jpg?raw=true"></code>](https://en.wikipedia.org/wiki/SQL)
+[<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/linkedin.png?raw=true"></code>](https://www.linkedin.com/in/gregoryhogg/)
 
 <br/>
 
