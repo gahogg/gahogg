@@ -24,4 +24,6 @@
 
 [Reinforcement Learning Package rl-learn](https://pypi.org/project/rl-learn/) :robot:
 
+<br/>
+
 **Connect with me on LinkedIn!** 
