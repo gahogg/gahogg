@@ -6,13 +6,13 @@
 
 **Languages and Tools:**  
 
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>](https://www.python.org/)
-[<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/git.png?raw=true" ></code>](https://git-scm.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/gahogg/gahogg/master/keras.png"></code>](https://keras.io/)
-[<code><img height="20" src="https://raw.githubusercontent.com/gahogg/gahogg/master/tensorflow.png"></code>](https://www.tensorflow.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/gahogg/gahogg/d38a59a433e48bad8d90c4a5a14f187746af78c5/r.svg"></code>](https://www.r-project.org/)
-[<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/databricks.png?raw=true"></code>](https://databricks.com/)
-[<code><img height="20" src="https://github.com/gahogg/gahogg/blob/master/sql.jpg?raw=true"></code>](https://en.wikipedia.org/wiki/SQL)
+[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>](https://www.python.org/)
+[<code><img height="25" src="https://github.com/gahogg/gahogg/blob/master/git.png?raw=true" ></code>](https://git-scm.com/)
+[<code><img height="25" src="https://raw.githubusercontent.com/gahogg/gahogg/master/keras.png"></code>](https://keras.io/)
+[<code><img height="25" src="https://raw.githubusercontent.com/gahogg/gahogg/master/tensorflow.png"></code>](https://www.tensorflow.org/)
+[<code><img height="25" src="https://raw.githubusercontent.com/gahogg/gahogg/d38a59a433e48bad8d90c4a5a14f187746af78c5/r.svg"></code>](https://www.r-project.org/)
+[<code><img height="25" src="https://github.com/gahogg/gahogg/blob/master/databricks.png?raw=true"></code>](https://databricks.com/)
+[<code><img height="25" src="https://github.com/gahogg/gahogg/blob/master/sql.jpg?raw=true"></code>](https://en.wikipedia.org/wiki/SQL)
 
 <br/>
 
