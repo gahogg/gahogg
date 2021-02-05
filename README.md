@@ -23,3 +23,5 @@
 [Biomon Multiplayer Android Game](https://www.youtube.com/watch?v=-k72TaHhwEQ) :iphone:
 
 [Reinforcement Learning Package rl-learn](https://pypi.org/project/rl-learn/) :robot:
+
+**Connect with me on LinkedIn!** 
