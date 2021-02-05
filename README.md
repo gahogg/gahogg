@@ -26,4 +26,5 @@
 
 <br/>
 
-**Connect with me on LinkedIn!** [<img height="30" src="https://github.com/gahogg/gahogg/blob/master/linkedin.png?raw=true">](https://www.linkedin.com/in/gregoryhogg/)
+**Connect with me on LinkedIn!** 
+[<img height="30" src="https://github.com/gahogg/gahogg/blob/master/linkedin.png?raw=true">](https://www.linkedin.com/in/gregoryhogg/)
