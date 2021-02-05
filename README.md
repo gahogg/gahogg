@@ -14,6 +14,7 @@
 [<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/databricks.png?raw=true"></code>](https://databricks.com/)
 [<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/sql.jpg?raw=true"></code>](https://en.wikipedia.org/wiki/SQL)
 [<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/gcp.png?raw=true"></code>](https://cloud.google.com/)
+[<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/spark.png?raw=true"></code>](https://spark.apache.org/)
 
 
 <br/>
