@@ -31,7 +31,3 @@
 [Reinforcement Learning Package rl-learn](https://pypi.org/project/rl-learn/) :robot:
 
 <br/>
-
-**Connect with me on LinkedIn!** 
-
-[<img height="40" src="https://github.com/gahogg/gahogg/blob/master/linkedin.png?raw=true">](https://www.linkedin.com/in/gregoryhogg/)
