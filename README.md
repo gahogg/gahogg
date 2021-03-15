@@ -1,8 +1,9 @@
 ## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-### I'm the sole maintainer of the reinforcement learning package [rl-learn](https://github.com/gahogg/rl_learn) with 4000 downloads on [PyPi](https://pypi.org/project/rl-learn/). 
+### Subscribe to my Data Science [YouTube Channel](https://youtube.com/user/bhgfsh?sub_confirmation=1) where I post educational videos!
 
-### Check out my [YouTube Channel](https://www.youtube.com/channel/UCJublDh2UsiIKsAE1553miw) where I post educational videos!
+## Sole maintainer of the reinforcement learning package [rl-learn](https://github.com/gahogg/rl_learn) with 4000 downloads on [PyPi](https://pypi.org/project/rl-learn/). 
+
 
 ---
 
