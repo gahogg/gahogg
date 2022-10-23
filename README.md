@@ -24,7 +24,7 @@
 
 **Sample Projects:**
 
-[Know Your Fruit: A Computer Vision Web App](https://kyfr.herokuapp.com/) 🍉
+[Know Your Fruit: A Computer Vision Web App](https://www.youtube.com/shorts/YWjEFOlMXws) 🍉
 
 [Biomon Multiplayer Android Game](https://www.youtube.com/watch?v=-k72TaHhwEQ) :iphone:
 
