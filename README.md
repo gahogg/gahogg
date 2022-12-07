@@ -2,9 +2,6 @@
 
 ### Subscribe to my Data Science [YouTube Channel](https://youtube.com/user/bhgfsh?sub_confirmation=1) where I post educational videos!
 
-#### Sole maintainer of the reinforcement learning package [rl-learn](https://github.com/gahogg/rl_learn) with 4000 downloads on [PyPi](https://pypi.org/project/rl-learn/). 
-
-#### Machine Learning Engineering Intern and fourth year mathie at the University of Waterloo.
 ---
 
 **Languages and Tools:**  
